@@ -1,2 +1,2 @@
 # WebAutomation
-Used Selenium WebDriver to Automate Hacckerrank 
+Used Selenium WebDriver to Automate HackerRank 
